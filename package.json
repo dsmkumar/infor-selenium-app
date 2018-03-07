@@ -1,0 +1,16 @@
+{
+  "name": "infor-ln-app",
+  "version": "1.0.0",
+  "description": "infor product automation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kinkar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chromedriver": "^2.35.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
